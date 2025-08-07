@@ -1,1 +1,6 @@
-
+GST = 0.15
+NikeShoes = 180
+TotalGST = GST * NikeShoes
+print(TotalGST)
+print("TotalGST")
+print("TotalGST",TotalGST)

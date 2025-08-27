@@ -6,6 +6,6 @@ TotalPunnetWeight = 14 * PunnetWeight
 TotalBoxWeight = 13 * BoxWeight
 TotalBucketWeight = 9 * BucketWeight
 TotalWeight = TotalPunnetWeight + TotalBoxWeight + TotalBucketWeight
-print("TotalWeight", TotalWeight)
+print("The total weight is", TotalWeight)
 chargeofBerryWeight= TotalWeight * 5
-print("ChargeOfBerryweight =","$", chargeofBerryWeight)
+print("Charge of Berry weight =","$", chargeofBerryWeight)

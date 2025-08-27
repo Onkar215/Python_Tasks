@@ -1,9 +1,8 @@
-AUS = 100.00
-USD = 100.00
-Bank1 = AUS
-Bank2 = USD
-NZD1 = AUS / 1.22
-NZD2 = USD / 1.154
-TOTALNZD=NZD1 + NZD2
-print("TOTALNZD", TOTALNZD)
-
+USAbank = 100
+AUSbank = 100
+NZbank1 = USAbank / 1.154
+print("The USD to NZD is",NZbank1)
+NZbank2 = AUSbank / 1.22
+print("The AUS to NZD is",NZbank2)
+TotalNZD = NZbank1 + NZbank2
+print("So the total worth in NZD is",TotalNZD)

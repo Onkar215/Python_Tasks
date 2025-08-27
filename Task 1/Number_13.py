@@ -1,4 +1,4 @@
 Weight = 195
 WeightAfter = Weight / 1000
-print("Weight",Weight)
-print("WeightAfter",WeightAfter)
+print("The weight before was",Weight)
+print("The weight after is",WeightAfter)

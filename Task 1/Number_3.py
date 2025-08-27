@@ -1,6 +1,4 @@
 GST = 0.15
 NikeShoes = 180
 TotalGST = GST * NikeShoes
-print(TotalGST)
-print("TotalGST")
-print("TotalGST",TotalGST)
+print("The total GST for the nike shoes is", TotalGST)

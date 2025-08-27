@@ -4,4 +4,4 @@ Tax=OrginalPay * TaxRate
 PayAfterTax = OrginalPay - Tax
 print(PayAfterTax)
 print("PayAfterTax")
-print("PayAfterTax",PayAfterTax)
+print("Mr Jackson is going to get paid", PayAfterTax)

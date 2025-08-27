@@ -1,6 +1,4 @@
 H = 12
 W = 15
 Area = H * W
-print(Area)
-print("Area")
-print("Area",Area)
+print("The area is", Area)
